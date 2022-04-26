@@ -7,6 +7,6 @@ Prodi : D3-MI<br>
 
 ## Hasil
 
-<span><img src="assets/images/1.jpeg" width= "200"></span>
-<span><img src="assets/images/2.jpeg" width= "200"></span>
-<span><img src="assets/images/3.jpeg" width= "200"></span>
+<span><img src="assets/images/1.jpeg" width= "350"></span>
+<span><img src="assets/images/2.jpeg" width= "350"></span>
+<span><img src="assets/images/3.jpeg" width= "350"></span>
